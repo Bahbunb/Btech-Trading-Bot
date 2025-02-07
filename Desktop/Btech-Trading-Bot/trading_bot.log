@@ -1,0 +1,2 @@
+2025-02-06 15:15:15,340 - ERROR - Error gathering market data: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-02-06 15:15:15,342 - ERROR - Failed to start bot
